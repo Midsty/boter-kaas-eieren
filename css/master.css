@@ -1,0 +1,15 @@
+.center{
+  position: absolute;
+  top: 28%;
+  left: 40%;
+  transform: translate(50%-, 50%-);
+}
+td{
+  background-color: red;
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 24px;
+}
